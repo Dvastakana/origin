@@ -8,6 +8,7 @@ public class MainSpeedTest {
 		
 		System.out.println("second");
 		
+		System.out.println("modifyed");
 	}
 	
 	

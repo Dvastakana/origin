@@ -9,6 +9,8 @@ public class MainSpeedTest {
 		System.out.println("second");
 		System.out.println("third");
 		
+		System.out.println("from new branch newf");
+		
 	}
 	
 	

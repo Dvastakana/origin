@@ -13,6 +13,7 @@ public class MainSpeedTest {
 		
 		System.out.println("new commit in newf");
 		
+		System.out.println("modifyed");
 	}
 	
 	

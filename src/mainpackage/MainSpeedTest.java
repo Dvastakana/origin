@@ -11,6 +11,8 @@ public class MainSpeedTest {
 		
 		System.out.println("from new branch newf");
 		
+		System.out.println("new commit in newf");
+		
 	}
 	
 	

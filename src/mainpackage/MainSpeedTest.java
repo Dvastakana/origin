@@ -13,7 +13,7 @@ public class MainSpeedTest {
 		mountain.addObserver(craig);
 		mountain.addObserver(hel);
 		
-		for(int i = 0; i < 5; i++)
+		for(int i = 0; i < 10; i++)
 		mountain.stayHigher();
 	}
 	
